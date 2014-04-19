@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Abinitio</string>
+    <string name="title_section1">Crypto Hunt</string>
+    <string name="title_section2">Chess Sapiens</string>
+    <string name="title_section3">Electrified</string>
+    <string name="title_sec4">Bid the Biz</string>
+    <string name="title_sec5">Amigos</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+    <string name="like_us">Like Us</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">""</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">""</string>
+    <string name="aboutus">"Abinitio 2014 is an event organised by first years of IEEE DTU. The event is on 22 April 2014 and 23 April 2014. It is an amalgam of technical and non technical events stretching for a time period of two days. The events organized this year are:
+
+\n1. Crypto Hunt
+\n2. Bid The BIZ\n
+3. Chess Sapiens \n
+4. Electrified \n
+5. Amigos"</string>
+    <string name="crypto">"Team: Maximum 4 (Lone Wolf allowed)\nTime: 1230hrs\nDate: 23 April\nVenue: OAT\n
+    Its a treasure hunt of another kind! Understand the question, figure out the cipher used, using that decipher the clue. Crack the clue. The clue will direct you to a location, where you will get your next clue. Get crackin\'"</string>
+    <string name="chess_sapiens">"Team: 4\nTime: 1215hrs\nDate: 22 April\nVenue: Civil Raised Platform\n
+    -Cz playing chess on a game board is too mainstream :P
+    Here we bring to you the \"HUMAN CHESS\". Its the same as chess, the only difference being that the \"chess pieces\" would be replaced by the participants.  Qualify the prelim round to reach the knockout round which would then lead you to the final round.
+    "</string>
+    <string name="bid_biz">"Team: 2\nTime: 1215hrs\nDate: 23 April\nVenue: TW1GF4\n
+    Here we present you the most amazing bidding game. Bid for companies, increase the share value, bid for assets and expand your business. Here we challenge you to come and execute your business strategies."</string>
+    <string name="electrified">Team: 2\nTime: 1230hrs\nDate: 22 April\nVenue: TW1GF4\n
+        Round 1: A simple MCQ round testing circuit work by using your knowledge on Embedded and Electrical.\n
+        Round 2: Making an electrical circuit work by using your wit and knowledge.\n
+        Round 3: Finding the difference between two digital circuits.</string>
+    <string name="amigos">"Team: 2\nTime: 1200hrs\nDate: 22 April\nVenue: Mech Lawns\n
+    Amigos! Adding recreation to Abinitio, it gives you a chance to flaunt how truly you understand your friends. Come and participate in an even that uses numerous ways to test your know-how of your pal's nature, behaviour and capabilities."</string>
+
+
+
+</resources>
