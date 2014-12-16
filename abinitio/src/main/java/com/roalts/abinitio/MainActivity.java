@@ -172,7 +172,7 @@ public class MainActivity extends Activity
 
             }
             if (getArguments().getInt(ARG_SECTION_NUMBER) == 2) {
-                img.setImageResource(R.drawable.crypto_hunt);
+                //img.setImageResource(R.drawable.crypto_hunt);
 
                 Toast.makeText(getActivity(), "Get Crackin'", Toast.LENGTH_SHORT).show();
                  descriptions = getResources().getString(R.string.crypto);
@@ -238,7 +238,7 @@ public class MainActivity extends Activity
             }
 
             if(getArguments().getInt(ARG_SECTION_NUMBER)==7) {
-                String url = "https://abinitio.dcetech.com";
+                String url = "abinitio.dcetech.com";
                 Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse(url));
                 startActivity(intent);
